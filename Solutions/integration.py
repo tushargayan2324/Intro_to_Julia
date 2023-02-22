@@ -17,7 +17,7 @@ def integrate(f,x_i,x_f):
     N = int(abs(x_f-x_i)/dx)
 
     for i in range(N):
-        S += dx*func(x_i + i*dx/2)
+        S += dx*func(x_i + i*dx)
 
     return S
 
@@ -29,6 +29,6 @@ tot_time = time() - in_time
 
 print(tot_time)
 
-#10^-7
+#dx = 10^-7, 0.5->5 x^(1/x)
 # 5.369212800469707
 # 17.279351234436035 secs
