@@ -14,8 +14,7 @@ Notebooks provides you with an interactive coding experience where you can write
 
 ### Using Notebooks in VS-Code for Julia
 - In VS-Code `ctrl+shift p` will open the command window where you can type new notebook and select `Create: New Jupyter Notebook`.
-<<<<<<< HEAD
-- To run the code you need to first select a `kernel` (`Julia` in this case) you can do that by selecting the `Select kernel` on the top right of your notebook.
+- To run the code you need to first select a `kernel` (`Julia` in this case) you can do that by selecting the `Select kernel` on the top right of your notebook. (If you don't see `Julia` kernel in the menu you need to add the julia to the VS-Code path.)
 
 #### Exercises and solutions
 - There are small exercises at the end of each notebook. They are easy to do and should provide some experience of the material that is presented.
@@ -23,5 +22,3 @@ Notebooks provides you with an interactive coding experience where you can write
 
 #### Enjoy learning Julia!
 =======
-- To run the code you need to first select a `kernel` (`Julia` in this case) you can do that by selecting the `Select kernel` on the top right of your notebook. (If you don't see `Julia` kernel in the menu you need to add the julia to the VS-Code path.) 
->>>>>>> 067e3d5 (readme.md julia kernel for windows)
