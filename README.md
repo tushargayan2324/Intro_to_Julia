@@ -19,6 +19,7 @@ Notebooks provides you with an interactive coding experience where you can write
 #### Exercises and solutions
 - There are small exercises at the end of each notebook. They are easy to do and should provide some experience of the material that is presented.
 - The solutions to the exercises are also given, but please try to do the exercises on your own before jumping to solution.
+- Solutions are posted in different branch. Just change the branch to find Solution folder
 
 #### Enjoy learning Julia!
 =======
