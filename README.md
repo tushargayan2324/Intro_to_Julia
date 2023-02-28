@@ -30,6 +30,7 @@ Notebooks provides you with an interactive coding experience where you can write
 
 The original notebooks can be found at https://github.com/JuliaAcademy/Introduction-to-Julia . The notebooks 4.5 and 8 are created my myself and the rest are modified to some extent for the Julia Workshop at IISER-K. 
 
+The images used are generated with the code given here itself. The remaining images are given credits where ever required.
 
 
 =======
