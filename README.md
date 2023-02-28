@@ -21,7 +21,7 @@ Notebooks provides you with an interactive coding experience where you can write
 - The solutions to the exercises are also given, but please try to do the exercises on your own before jumping to solution.
 - Solutions are posted in different branch. Just change the branch to find Solution folder
 
-#### Solutions are in "Solution" branch
+#### Solutions are in "Solutions" branch
 
 #### Enjoy learning Julia!
 
